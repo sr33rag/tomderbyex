@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/tomderbyex1">
+  <Resource name="jdbc/carsdb" auth="Container" type="javax.sql.DataSource" driverClassName="org.apache.derby.jdbc.ClientDriver" url="jdbc:derby:/home/sree/derbydbs/carsdb;create=true;" maxActive="8" maxIdle="4"/>
+</Context>
